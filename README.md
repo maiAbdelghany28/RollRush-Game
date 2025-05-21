@@ -5,6 +5,7 @@
 ## Author
 Mai Waheed AbbdelGhany
 
+---
 
 A 3D two-player racing game built using **OpenGL** and **FreeGLUT**, featuring multiple game modes, dynamic tracks, smooth camera-following, checkpoint-based scoring, and a GUI-based start menu.
 
